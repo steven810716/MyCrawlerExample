@@ -22,7 +22,8 @@ public class BasicExample {
 			    //.addCookie("key","value")	// 設定cookie
 				//.setRemoteEncoding("big5")// 設定遠端資料文件編碼
 				
-				// 選擇資料格式 (三選一)
+				// 選擇資料格式 (四選一)
+				//.getFromRemote(uri)
 				.getFromJson(uri)
 			    //.getFromHtml(uri)
 			    //.getFromXml(uri)
